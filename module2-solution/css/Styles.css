@@ -9,9 +9,18 @@ h1 {
 }
 
 h2{border: 1px solid black; padding: 1px; 
-  position: absolute;left: 14em;}
+  position: relative;}
 
-section{ position: relative;}
+section{}
+
+p {
+  width: 20%;
+  position: relative;left: 80%;
+  border: 1px black solid;
+  font-size: 22px;
+  font-style: bold;
+  padding: 3px 13px 3px 18px;
+}
 
 /* Simple Responsive Framework. */
 .row {
